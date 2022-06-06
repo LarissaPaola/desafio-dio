@@ -1,0 +1,19 @@
+dir: listar
+cd: navegar entre as pastas 
+clr:limpar
+TAB+l: alto completar 
+mkdir: criar repositório
+rmdir: apaga repositórios 
+del: exclui apenas arquivos
+sha1: algoritimo de encriptação
+echo: print a mesma palavra ou frase 
+openssl sha1: encripta o 'print do echo'
+git push: empurrar o repositório para o Git
+git pull: puxar o repositório do Git
+git status: resumo da situação/alterações
+git clone: clonar repositório
+git add . ou git add -A: adicionar todos os arquivos
+git commit -m: colocar uma mensagem ao commit executado
+git push origin: adicionar commit finalizado ao Git
+
+*Conhecimento dos comandos acima na tada 06/06/22.
