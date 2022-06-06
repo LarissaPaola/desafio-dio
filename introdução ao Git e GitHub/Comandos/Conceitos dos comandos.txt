@@ -16,4 +16,4 @@ git add . ou git add -A: adicionar todos os arquivos
 git commit -m: colocar uma mensagem ao commit executado
 git push origin: adicionar commit finalizado ao Git
 
-*Conhecimento dos comandos acima na tada 06/06/22.
+*Conhecimento dos comandos acima na dada 06/06/22.
